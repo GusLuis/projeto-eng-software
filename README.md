@@ -42,7 +42,6 @@ Abaixo estão detalhados os requisitos mapeados para o funcionamento da aplicaç
 | :--- | :--- |
 | **RNF01** | A interface de usuário (UI) deve ser desenvolvida utilizando a abordagem *Mobile First* garantindo responsividade total. |
 | **RNF02** | O sistema deve ser construído utilizando HTML5, JavaScript (Vanilla) e estilizado com o framework Tailwind CSS. |
-| **RNF03** | A iconografia do sistema deve ser padronizada utilizando a biblioteca *Lucide Icons*. |
 
 ### Regras de Negócio (RN)
 
